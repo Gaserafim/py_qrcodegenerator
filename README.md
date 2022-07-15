@@ -1,2 +1,2 @@
 # py_qrcodegenerator
-Python script to create QR code from a link entered by the user.
+Script Python para criar código QR a partir de um link inserido pelo usuário.
